@@ -1,0 +1,80 @@
+{
+  store: {
+    name: "ConvertQ",
+    logoUrl: "/img/logo-convertq.png"
+  },
+  product: {
+    name: "Aamzon Best Selling Weight",
+    description: "Launching an attractive and scalable website quickly and affordably is important for modern startups",
+    originalPrice: 99.95,
+    promotePrice: 18.55,
+    imageUrls: [
+      "https://images-na.ssl-images-amazon.com/images/I/61CaKedXrGL._SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/81GLdOCOG5L._SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71Rv406yBdL._SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/61PGFTYK7dL._SL1500_.jpg"
+    ],
+    reviews: [
+      {
+        reviewText: "“There's a feeling of structure that you can't find in other templates — Stack has become my default template.”",
+        customerName: "Jason Briggs",
+        customerLabel: "Envato Customer"
+      },
+      {
+        reviewText: "“Variant has been a massive plus for my workflow — I can now get live mockups out in a matter of hours, my clients really love it.”",
+        customerName: "Jason Briggs",
+        customerLabel: "Envato Customer"
+      },
+      {
+        reviewText: "“We’ve been using Stack to prototype designs quickly and efficiently. Needless to say we’re hugely impressed by the style and value.”",
+        customerName: "Maguerite Holland",
+        customerLabel: "Interface Designer — Yoke"
+      }
+    ],
+    features: {
+      title: "About the Product",
+      description: "Combine blocks from a range of categories to build pages that are rich in visual style and interactivity.",
+      imageUrl: "https://images-na.ssl-images-amazon.com/images/I/71Rv406yBdL._SL1500_.jpg",
+      videoUrl: "https://www.youtube.com/embed/6p45ooZOOPo?autoplay=1"
+    }
+  },
+  banner: {
+    label: "Hot!",
+    description: 'Over 290 interface blocks, 140 demo pages and Variant Page Builder. <a href="#purchase-template">Purchase Stack</a> for $18 USD.'
+  },
+  callout: {
+    leftText: "Limited time offer",
+    centralText: "Start using that in your next camping trips",
+    buttonText: "Claim My Coupon"
+  },
+  questionsPart1: [
+    {
+      title: "How do refunds work?",
+      answer: 'Open a <a href="#">refund request</a> with us and we can work with you to resolve it ASAP.'
+    },
+    {
+      title: "Can I pay using AMEX?",
+      answer: "Yes, we accept all major credit cards, including AMEX, so rack up those points!"
+    },
+    {
+      title: "Is there a bulk-buy discount?",
+      answer: 'We have corporate and enterprise arrangements that our pricing team can assist with on a case-by-case basis. <a href="#">Contact Us</a> for info.'
+    }
+  ],
+  questionsPart2: [
+    {
+      title: "Is there a minimum contract term?",
+      answer: "No! The beauty of our service is that you can cancel anytime you need to — no questions asked."
+    },
+    {
+      title: "Do I need an SSL certificate?",
+      answer: "This depends on whether your plan to process the payment on your site or not. We recommend using a third-party provider to unburden yourself."
+    }
+  ],
+  footer: {
+    googleUrl: "https://www.google.com",
+    twitterUrl: "https://twitter.com/ConvertqHQ",
+    facebookUrl: "#facebook",
+    instagramUrl: "#instagram"
+  }
+}
