@@ -1,0 +1,94 @@
+{
+  "store": {
+    "name": "ConvertQ",
+    "logoUrl": "/img/logo-convertq.png"
+  },
+  "product": {
+    "name": "Girls One Piece Swimsuits Hawaiian Ruffle Swimwear Beach Bathing Suit",
+    "description": "The perfect swimwear for girls! Enjoy the summer, enjoy the beach! Great gift for your little girls!",
+    "url": "https://amzn.to/2MKCjrR",
+    "originalPrice": 18.99,
+    "promotePrice": 18.99,
+    "imageUrls": [
+      "https://images-na.ssl-images-amazon.com/images/I/71-68FZHLRL._UX679_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71Ko-RCV75L._UX679_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71GBg%2BruFgL._UX679_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/810QiDfioOL._UX679_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/81Nt2jpub6L._UX679_.jpg"
+    ],
+    "reviews": [
+      {
+        "reviewText": "“Great fit and look. My daughter loved it for our trip Hawaii. Well made as well!”",
+        "customerName": "	Stephanie Starling",
+        "customerLabel": "Size: 7-8 Years | Color: Blue"
+      },
+      {
+        "reviewText": "“My daughter is 7 years old, 50% height and weight. Size 7-8 is perfect for her with a little room to grow into. No need to buy one size up.”",
+        "customerName": "Chicagolady",
+        "customerLabel": "Size: 7-8 Years | Color: Blue"
+      },
+      {
+        "reviewText": "“Bathing suit fit perfectly. I was skeptical of buying a swimsuit online that went by ages instead of sizes, but it actually fits.”",
+        "customerName": "Wetrooster",
+        "customerLabel": "Size: 9-10 Years | Color: Purple"
+      }
+    ],
+    "video": {
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71-68FZHLRL._UX679_.jpg",
+      "videoUrl": "https://www.youtube.com/embed/q8GbKt1-VSc?autoplay=1"
+    },
+    "features": [
+      {
+        "title": "PREMIUM QUALITY ASSURE",
+        "description": "Our trendy cute swimsuit for girls is made of 80% Polyamide and 20% Elastane. High elastic spandex offers enough space for a growing child."
+      },
+      {
+        "title": "FUNCTIONAL DESIGN,ADORABLE PATTERN",
+        "description": "This fantastic girls swimsuit is professional designed for functional use. Soft fabric for kid's sensitive skin and durable for best results."
+      },
+      {
+        "title": "ALL DAY SUN PROTECTION",
+        "description": "High-tech material with SPF 50,provide this swimwear for toddlers and girls swimsuit ultimate, secure protection for little swimmers."
+      }
+    ]
+  },
+  "banner": {
+    "label": "Hot!",
+    "description": "We make all our girls swimwear with special quality attention to detail. <a href='https://amzn.to/2MKCjrR'>Purchase Now</a> for $18 USD."
+  },
+  "callout": {
+    "leftText": "Limited time offer",
+    "centralText": "Start using that in your next Hawaii trips",
+    "buttonText": "Claim My Coupon"
+  },
+  "questionsPart1": [
+    {
+      "title": "How do refunds work?",
+      "answer": "Open a <a href='#'>refund request</a> with us and we can work with you to resolve it ASAP."
+    },
+    {
+      "title": "Can I pay using AMEX?",
+      "answer": "Yes, we accept all major credit cards, including AMEX, so rack up those points!"
+    },
+    {
+      "title": "My daughter normally wears 14/16 size should i get her?",
+      "answer": "I ordered size 4 for my 3 year old. She is taking swim lessons and wears a swim diaper so that takes up a bit of room, without the diaper size 4 would be too large. Very cute bathing suit. "
+    },
+  ],
+  "questionsPart2": [
+    {
+      "title": "True to size?",
+      "answer": "Yes. Bought for my granddaughter who was wearing 3T and it was a great fit. "
+    },
+    {
+      "title": "Does it have any bodice lining to cover nipples?",
+      "answer": "Not sure if it does but the inside of it has a white lining type of cloth. My 12 year old daughter says that it's not see thru. And she said that it covers her stuff. Hope this helps."
+    }
+  ],
+  "footer": {
+    "googleUrl": "https://www.google.com",
+    "twitterUrl": "https://twitter.com/ConvertqHQ",
+    "facebookUrl": "#facebook",
+    "instagramUrl": "#instagram"
+  }
+}
