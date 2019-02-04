@@ -7,8 +7,8 @@
     "name": "Aamzon Best Selling Weight",
     "description": "Launching an attractive and scalable website quickly and affordably is important for modern startups",
     "url": "https://www.amazon.com/gp/product/0345803787",
-    "originalPrice": 99.95,
-    "promotePrice": 18.55,
+    "regularPrice": 99.95,
+    "salePrice": 18.55,
     "imageUrls": [
       "https://images-na.ssl-images-amazon.com/images/I/61CaKedXrGL._SL1500_.jpg",
       "https://images-na.ssl-images-amazon.com/images/I/81GLdOCOG5L._SL1500_.jpg",
