@@ -1,0 +1,88 @@
+{
+  "store": {
+    "name": "ConvertQ",
+    "logoUrl": "/img/logo-convertq.png"
+  },
+  "product": {
+    "name": "STARRYFIELD Dog Clippers- Rechargeable Cordless Cat and Dog Clippers, Low Noise Electric Pet Trimmer, Pet Clipper for Trimming The Hair Around Face, Eyes, Ears, Paw, Rump",
+    "description": "STARRYFIELD Dog Clippers- Rechargeable Cordless Cat and Dog Clippers, Low Noise Electric Pet Trimmer, Pet Clipper for Trimming The Hair Around Face, Eyes, Ears, Paw, Rump",
+    "url": "https://www.amazon.com/STARRYFIELD-Clippers-Rechargeable-Cordless-Clippers/dp/B07VHTHZFN",
+    "regularPrice": 16.98,
+    "salePrice": 16.98,
+    "imageUrls": [
+        "https://images-na.ssl-images-amazon.com/images/I/51FnSyoBEEL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51TvFTCvtKL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41uOmKN2RtL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51QlEGCMHTL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51mypf3eimL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51vCSC8gKcL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51n%2BN54mw3L.jpg"
+    ],
+    "reviews": [],
+    "video": {
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51FnSyoBEEL.jpg",
+        "videoUrl": ""
+    },
+    "features": [
+        {
+            "title": "Feature 1",
+            "description": "PORTABLE - The cordless pet clipper has small size design for easy carrying and storage. Special exquisite narrow head works better for hairstylist on a small area. Ideal to trim the hair around paws, eyes, ears, face, butt, etc."
+        },
+        {
+            "title": "Feature 2",
+            "description": "PROFESSIONAL - Precision motor, low vibration, and ultra-quiet design, work noise with only about 50 DB, to help the pet feel at ease, not afraid haircut any more. Lightweight and ergonomic design make it easy to hold and operate to allow for a smooth and convenient grooming experience suitable for beginners, pet groomers, etc"
+        },
+        {
+            "title": "Feature 3",
+            "description": "EASY TO CLEAN- When you use a pet trimmer to comb the cat dog's paws, eyes, face, ears, nose, hair, buttocks, and feet, you can simply clean the blade with a clean cloth and remove the hair from the blade. Use the cleaning brush (included) To extend the service life"
+        },
+        {
+            "title": "Feature 4",
+            "description": "LOW NOISE - Upgraded super mute motor creates less vibration. Your pet will feel more comfortable and won’t get anxiety during a haircut. The blade is made with ceramic, which is tested in many times for that won't stick the hair, prevent burns with heat-resisting and prevent scratches in\"R” shape."
+        },
+        {
+            "title": "Feature 5",
+            "description": "AFTER SERVICE - If you have any questions please contact us, we will give you the best service, If you don't like the product, we have a worry-free 12-month warranty, You can buy with confidence"
+        }
+    ]
+  },
+  "banner": {
+    "label": "Hot!",
+    "description": "We make all our girls swimwear with special quality attention to detail. <a href='https://amzn.to/2MKCjrR'>Purchase Now</a> for $18 USD."
+  },
+  "callout": {
+    "leftText": "Limited time offer",
+    "centralText": "Start using that in your next Hawaii trips",
+    "buttonText": "Claim My Coupon"
+  },
+  "questionsPart1": [
+    {
+      "title": "How do refunds work?",
+      "answer": "Open a <a href='#'>refund request</a> with us and we can work with you to resolve it ASAP."
+    },
+    {
+      "title": "Can I pay using AMEX?",
+      "answer": "Yes, we accept all major credit cards, including AMEX, so rack up those points!"
+    },
+    {
+      "title": "My daughter normally wears 14/16 size should i get her?",
+      "answer": "I ordered size 4 for my 3 year old. She is taking swim lessons and wears a swim diaper so that takes up a bit of room, without the diaper size 4 would be too large. Very cute bathing suit. "
+    }
+  ],
+  "questionsPart2": [
+    {
+      "title": "True to size?",
+      "answer": "Yes. Bought for my granddaughter who was wearing 3T and it was a great fit. "
+    },
+    {
+      "title": "Does it have any bodice lining to cover nipples?",
+      "answer": "Not sure if it does but the inside of it has a white lining type of cloth. My 12 year old daughter says that it's not see thru. And she said that it covers her stuff. Hope this helps."
+    }
+  ],
+  "footer": {
+    "googleUrl": "https://www.google.com",
+    "twitterUrl": "https://twitter.com/ConvertqHQ",
+    "facebookUrl": "#facebook",
+    "instagramUrl": "#instagram"
+  }
+}
