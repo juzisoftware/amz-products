@@ -18,7 +18,23 @@
         "https://images-na.ssl-images-amazon.com/images/I/51vCSC8gKcL.jpg",
         "https://images-na.ssl-images-amazon.com/images/I/51n%2BN54mw3L.jpg"
     ],
-    "reviews": [],
+    "reviews": [
+      {
+        "reviewText": "“This is a great set to keep your pet looking great and feeling good.”",
+        "customerName": "Roger D Young",
+        "customerLabel": ""
+      },
+      {
+        "reviewText": "“Small size and lightweight, easy to hold and do the smooth grooming on my kitten, this size so fit on my kitten.”",
+        "customerName": "Chili Huang",
+        "customerLabel": ""
+      },
+      {
+        "reviewText": "“Just received and used it for my kitten today. Found this little clipper very convenient for using. While using it to clip her fur, my kitten was really quiet without meowing! Definitely a perfect product.”",
+        "customerName": "Amazon Customer",
+        "customerLabel": ""
+      }
+    ],
     "video": {
         "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51FnSyoBEEL.jpg",
         "videoUrl": ""
