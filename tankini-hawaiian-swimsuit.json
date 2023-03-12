@@ -3,6 +3,11 @@
     "name": "ConvertQ",
     "logoUrl": "/img/logo-convertq.png"
   },
+  "meta": {
+    "promotionId": "67a65b85-82a2-44c0-9eaf-8c9968c638f4",
+    "promotionType": "claim_by_view",
+    "promotionStatus": "expired"
+  },
   "product": {
     "name": "Girls Two Piece Tankini Swimsuit Hawaiian Ruffle Swimwear Bathing Suit",
     "description": "The perfect swimwear for girls! Enjoy the summer, enjoy the beach! Great gift for your little girls!",
@@ -63,7 +68,7 @@
     "centralText": "Start using that in your next Hawaii trips",
     "buttonText": "Claim My Coupon"
   },
-  "questionsPart1": [
+  "questions":[
     {
       "title": "How do refunds work?",
       "answer": "Open a <a href='#'>refund request</a> with us and we can work with you to resolve it ASAP."
@@ -75,9 +80,7 @@
     {
       "title": "My daughter normally wears 14/16 size should i get her?",
       "answer": "I ordered size 4 for my 3 year old. She is taking swim lessons and wears a swim diaper so that takes up a bit of room, without the diaper size 4 would be too large. Very cute bathing suit. "
-    }
-  ],
-  "questionsPart2": [
+    },
     {
       "title": "True to size?",
       "answer": "Yes. Bought for my granddaughter who was wearing 3T and it was a great fit. "
